@@ -1,2 +1,2 @@
-# learn-shell
-this is a test
+# learning-shell
+Topics of shell scripting
