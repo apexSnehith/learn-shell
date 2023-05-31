@@ -1,2 +1,2 @@
-a= 10
-echo value of a is ${a}
+a=10
+echo value of a is $a
